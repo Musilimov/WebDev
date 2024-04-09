@@ -1,0 +1,208 @@
+body{
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color:#f5f6f7;
+}
+.view{
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    position: relative;
+    width: 980px;
+}
+.Facebook{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-top: 180px;
+}
+.facebook{
+    margin-bottom: -19px;
+    color: rgb(0, 81, 255);
+    font-size: 32px;
+}
+.log{
+        width: 400px;
+        height: 370px;
+        background-color: white;
+        border-radius: 10px;
+        position: absolute;
+        top: 130px;
+        left: 850px;
+        border: 1px solid gainsboro;
+        box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.19);
+
+    }
+    .custom-input {
+        border-radius: 6px;
+        margin-top: 20px;
+        margin-left: 15px;
+        width: 360px; 
+        height: 60px; 
+        border: 1px solid gainsboro;    
+        padding-left: 10px;
+    }
+    .custom-inputt {
+        border-radius: 6px;
+        margin-top: -5px;
+        margin-left: 15px;
+        width: 360px; 
+        height: 60px; 
+        border: 1px solid gainsboro;
+        
+        padding-left: 10px;        
+    }
+    .custom-input::placeholder{
+        text-align: left;
+        padding-left: 0px;
+        font-size: 17px;
+        color: grey;
+    }
+    .custom-inputt::placeholder{
+        padding-left: 10px;
+        font-size: 17px;
+        color: grey;
+        padding-left: 0px;
+    }
+    .color-input:focus {
+        border-color: #ff0000; /* Изменение цвета края при фокусе */
+    }
+    .custom-input:active {
+        vertical-align: middle;
+        font-size: 16px;
+        border-color: green;
+    }
+    .in{
+        margin-top: 10px;
+        margin-left: 15px;
+        height: 50px;
+        color: #01a715;
+    }
+    button{
+        height: 50px;
+        width: 372px;
+        border: 1px solid gainsboro;   
+        border-radius: 6px;
+        background-color: rgb(0, 106, 255);
+        text-align: center;
+        font-size: 20px;
+        color: white;
+        font-style:unset;
+        cursor: pointer;
+    }
+    .forg{
+        text-align: center;
+        margin-top: 10px;
+        font-size: 16px;
+        color: blue;
+        text-decoration: none;
+    }
+    .par{
+        color:rgb(0, 128, 255);
+        text-decoration: none;
+    }
+    .par:hover{
+        text-decoration: underline;
+    }
+    .hrr{
+        size: 10px;
+    }
+    hr{
+        width: 350px;
+        height: 0.00001px;
+        background-color: #fff;
+        border-color: rgb(255, 255, 255);
+        size: 0.1px;
+    }
+        .newac{
+            background-color: rgb(23, 183, 23);
+        width: 230px;
+        padding-left: 20px;
+        text-align: center;
+        margin-left: 85px;
+        margin-top: 15px;
+        font-size: 17px;
+    }
+    .SS{
+        text-decoration: none;
+        color: black;
+
+    }
+    .nad{
+        position: absolute;
+        top: 520px;
+        left: 850px;
+    }
+    .cc{
+        font-family:'Times New Roman', Times, serif;
+    }
+    .cc:hover{
+        text-decoration: underline;
+    }
+    .centr{
+        text-align: center;
+        margin-left: 170px;
+    }
+    .block{
+        background-color: white;
+        position:absolute;
+        top: 700px;
+        width: 100%;
+        margin-left: -9.29px;
+        height: 200px;
+        border: 0.001px solid gainsboro;
+        /* box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.19); */
+
+    }
+    .plus{
+        height: 20px;
+        width: 20px;
+    }
+    .txt{
+        color: gray;
+        font-size: 14px;
+        position: relative;
+        margin-top: 20px;
+        margin-left: 290px;
+        margin-right: 15px;
+    }
+    .ssyl{
+        text-decoration: none;
+        color: gray;
+        margin-right: 15px;
+        margin-top: 15px;
+    }
+    .ssyl:hover{
+        text-decoration: underline;
+    }
+    .lini{
+        width: 980px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: -5px;
+    }
+    .rus{
+        margin-right: 15px;
+    }
+    .ots{
+        margin-right: 15px;
+        margin-top: 100px;
+        padding-top: 15px;
+    }
+    .meta{
+        font-size: 13px;
+        margin-top: 20px;
+    }
